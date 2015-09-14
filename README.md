@@ -1,5 +1,5 @@
 # gmail-englishmajor
-Take the time to read an email when someone takes the time to write one.
+Take the time to read an email only when someone takes the time to write one.
 
 Goals:
 Poor spelling? Incorrect capitalization? Grammar that makes a monkey hammering away at a typewriter look smarter?
